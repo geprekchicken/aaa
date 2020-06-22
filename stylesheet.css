@@ -112,7 +112,7 @@ header {
   line-height: 65px;
   padding: 0 25px;
   color: white;
-  display: block;
+  display: inline block;
 }
 
 .lesson-wrapper {
